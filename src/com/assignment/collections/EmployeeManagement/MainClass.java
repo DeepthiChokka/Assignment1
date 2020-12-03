@@ -9,7 +9,7 @@ public class MainClass {
         boolean val = edb.addEmployee(e1);
         System.out.println(val);
 
-        edb.deleteEmployee(1);
+        //edb.deleteEmployee(1);
 
         edb.listAll();
     }
